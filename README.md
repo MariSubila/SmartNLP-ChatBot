@@ -55,9 +55,7 @@ streamlit run app.py
 
 ---
 ## Project Structure
-bash
-Copy
-Edit
+
 smartnlp-chatbot/
 │
 ├── intents.json           # Predefined intents for the chatbot
