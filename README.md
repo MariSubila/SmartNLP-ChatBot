@@ -38,6 +38,7 @@ streamlit run app.py
 ---
 ## Note
 ⚡ Voice input (via microphone) requires pyaudio.
+
 🔊 However, since pyaudio is not installed on my laptop and not supported by some systems, the app will only support text-based chat input in such cases.
 
 ---
