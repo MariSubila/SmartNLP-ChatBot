@@ -1,0 +1,9 @@
+streamlit
+nltk
+numpy
+scikit-learn
+joblib
+pyttsx3
+speechrecognition
+pyaudio
+
